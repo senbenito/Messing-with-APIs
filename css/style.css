@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  background-image: url("http://wonkeyweb.com/wp-content/gallery/LAserCaTS/laserCAt2.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+hr {
+  margin-bottom: 20px;
+   border: 5px solid black;
+}
+
+#catfact {
+  background-color: aliceblue;
+  opacity: .7;
+}
+
+.actualFact{
+  font-size: 1.8em;
+  font-family: 'Baloo', cursive;
+  padding: 0px 20px;
+  color: #56C2FB;
+}
+
+.button {
+  font-family: 'Shadows Into Light', cursive;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 15px;
+  font-size: 2.05em;
+  background-color: #ff00b4;
+  color: #49ff00;
+}
